@@ -1,0 +1,1 @@
+# Multimodal-Content-Generation-with-Gemini-on-Vertex-AI
